@@ -67,8 +67,8 @@ Othello-AI/
 黑白棋的魅力在于 **局势瞬息万变**，一步落子可能翻转十几枚棋子，因此需要强大的搜索与评估能力来预判局面。
 
 <div style="display:flex; justify-content:center; gap:2%;">
-  <img src="Result/13.jpg" alt="图1" style="width:48%;">
-  <img src="Result/14.jpg" alt="图2" style="width:48%;">
+  <img src="Result/13.jpg" alt="图1" style="width:35%;">
+  <img src="Result/14.jpg" alt="图2" style="width:35%;">
 </div>
 
 ## 🧮 MiniMax 博弈树搜索原理
